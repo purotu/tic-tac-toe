@@ -63,3 +63,5 @@ cells.forEach((cell, index) => {
 });
 
 document.querySelector('.restart').addEventListener('click', handleRestartGame);
+
+handleRestartGame();
